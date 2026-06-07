@@ -4,10 +4,10 @@
 randomize()
 
 //Alarme toca daqui a 60 frames
-TempoAlarme = 60
+TempoAlarme = 100
 alarm[0] = TempoAlarme
-alarm[1] = TempoAlarme + 30
-alarm[2] = TempoAlarme + 30
+alarm[1] = TempoAlarme + (TempoAlarme / 2)
+alarm[2] = TempoAlarme + (TempoAlarme / 2)
 alarm[3] = TempoAlarme
 
 
