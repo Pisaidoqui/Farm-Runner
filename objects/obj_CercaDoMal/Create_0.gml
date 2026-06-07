@@ -1,7 +1,7 @@
 /// @description Coisas quando a instancia é criada
 // Você pode escrever seu código neste editor
 
-VelY = 4 //Cria uma variavel pra velocidade vertical
+VelY = 5.5 //Cria uma variavel pra velocidade vertical
 
 //Seta o tamanho da sprite
 image_yscale = 3

@@ -1,4 +1,4 @@
-/// @description Spawn de cerca
+/// @description Spawn de cerca esquerda
 // Você pode escrever seu código neste editor
 
 var _Numero = irandom_range(1, 100) //Gera um numero de 1 a 100
@@ -6,9 +6,10 @@ var _Numero = irandom_range(1, 100) //Gera um numero de 1 a 100
 if (_Numero >= 60) //Se esse numero for igual ou maior que 70
 {
 	//Vai criar na layer Instances um trigo
-	instance_create_layer(x, y, "Instances", obj_CercaDoMal)
+	instance_create_layer(128, y, "Instances", obj_CercaDoMal)
 }
 
-//Alarme se reativa
-alarm[1] = TempoAlarme
+alarm[3] = TempoAlarme
+
+
 

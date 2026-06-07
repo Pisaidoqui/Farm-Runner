@@ -14,7 +14,7 @@
     {"id":{"name":"obj_ColisaoMorte","path":"objects/obj_ColisaoMorte/obj_ColisaoMorte.yy",},"order":4,},
     {"id":{"name":"spr_Testes","path":"sprites/spr_Testes/spr_Testes.yy",},"order":3,},
     {"id":{"name":"fnt_Pixel1","path":"fonts/fnt_Pixel1/fnt_Pixel1.yy",},"order":0,},
-    {"id":{"name":"obj_TrigosComidos","path":"objects/obj_TrigosComidos/obj_TrigosComidos.yy",},"order":3,},
+    {"id":{"name":"obj_Informacoes","path":"objects/obj_Informacoes/obj_Informacoes.yy",},"order":3,},
     {"id":{"name":"scr_Inicio","path":"scripts/scr_Inicio/scr_Inicio.yy",},"order":0,},
     {"id":{"name":"rm_Teste","path":"rooms/rm_Teste/rm_Teste.yy",},"order":0,},
   ],
