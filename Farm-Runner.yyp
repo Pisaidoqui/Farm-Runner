@@ -4,8 +4,14 @@
   "name": "Farm-Runner",
   "resources": [
     {"id":{"name":"spr_VacaTeste","path":"sprites/spr_VacaTeste/spr_VacaTeste.yy",},"order":0,},
+    {"id":{"name":"obj_Trigo","path":"objects/obj_Trigo/obj_Trigo.yy",},"order":1,},
+    {"id":{"name":"obj_RNG","path":"objects/obj_RNG/obj_RNG.yy",},"order":2,},
+    {"id":{"name":"spr_Trigo","path":"sprites/spr_Trigo/spr_Trigo.yy",},"order":2,},
     {"id":{"name":"spr_Trilha","path":"sprites/spr_Trilha/spr_Trilha.yy",},"order":1,},
     {"id":{"name":"obj_VacaTeste","path":"objects/obj_VacaTeste/obj_VacaTeste.yy",},"order":0,},
+    {"id":{"name":"fnt_Trigos","path":"fonts/fnt_Trigos/fnt_Trigos.yy",},"order":0,},
+    {"id":{"name":"obj_TrigosComidos","path":"objects/obj_TrigosComidos/obj_TrigosComidos.yy",},"order":3,},
+    {"id":{"name":"scr_Inicio","path":"scripts/scr_Inicio/scr_Inicio.yy",},"order":0,},
     {"id":{"name":"rm_Teste","path":"rooms/rm_Teste/rm_Teste.yy",},"order":0,},
   ],
   "Options": [
