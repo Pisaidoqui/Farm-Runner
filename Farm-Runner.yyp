@@ -3,7 +3,10 @@
   "resourceVersion": "1.6",
   "name": "Farm-Runner",
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_VacaTeste","path":"sprites/spr_VacaTeste/spr_VacaTeste.yy",},"order":0,},
+    {"id":{"name":"spr_Trilha","path":"sprites/spr_Trilha/spr_Trilha.yy",},"order":1,},
+    {"id":{"name":"obj_VacaTeste","path":"objects/obj_VacaTeste/obj_VacaTeste.yy",},"order":0,},
+    {"id":{"name":"rm_Teste","path":"rooms/rm_Teste/rm_Teste.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -23,7 +26,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_Teste","path":"rooms/rm_Teste/rm_Teste.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
