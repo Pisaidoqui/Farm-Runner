@@ -2,8 +2,14 @@
 // Você pode escrever seu código neste editor
 
 VelY = 4 //Cria uma variavel pra velocidade vertical
-image_yscale = 2
-image_xscale = 2
 
+//Seta o tamanho da sprite
+image_yscale = 3
+image_xscale = 3
+
+
+//Seta a direção da sprite
+image_angle = 90
+direction = image_angle
 
 

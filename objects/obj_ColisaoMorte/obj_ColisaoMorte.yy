@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_VacaTeste",
+  "name": "obj_ColisaoMorte",
   "spriteId": {
-    "name": "spr_VacaTeste",
-    "path": "sprites/spr_VacaTeste/spr_VacaTeste.yy",
+    "name": "spr_Testes",
+    "path": "sprites/spr_Testes/spr_Testes.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,10 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_CercaDoMal","path":"objects/obj_CercaDoMal/obj_CercaDoMal.yy",},},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
