@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Trigo",
+  "name": "obj_TP",
   "spriteId": {
-    "name": "spr_Trigo",
-    "path": "sprites/spr_Trigo/spr_Trigo.yy",
+    "name": "spr_TP",
+    "path": "sprites/spr_TP/spr_TP.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,11 +25,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Vaca","path":"objects/obj_Vaca/obj_Vaca.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ColisaoMorte","path":"objects/obj_ColisaoMorte/obj_ColisaoMorte.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

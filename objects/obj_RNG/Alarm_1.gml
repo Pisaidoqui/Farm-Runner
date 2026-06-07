@@ -15,6 +15,12 @@ else if (global.Dificuldade = 2 and _Numero >= 60) //Se esse numero for igual ou
 	instance_create_layer(x, y, "Instances", obj_CercaDoMal)
 }
 
+else if (global.Dificuldade = 3 and _Numero >= 50) //Se esse numero for igual ou maior que 70
+{
+	//Vai criar na layer Instances um trigo
+	instance_create_layer(x, y, "Instances", obj_CercaDoMal)
+}
+
 //Alarme se reativa
 alarm[1] = TempoAlarme
 

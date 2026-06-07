@@ -1,9 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-//Soma a posição vertical com o y
-y += VelY
-
 //Se o jogo pausar
 if (global.JogoPausado)
 {
@@ -14,6 +11,19 @@ if (x = 128)	//Se estiver na esquerda
 {
 	image_angle = 270		//Vai virar a sprite
 	direction = image_angle
+}
+
+
+//Soma a posição vertical com o y
+y += VelY
+
+if (global.Dificuldade = 2)
+{
+	VelY++
+}
+else if (global.Dificuldade = 3)
+{
+	VelY++
 }
 
 
