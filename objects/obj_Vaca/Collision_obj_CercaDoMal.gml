@@ -3,6 +3,7 @@
 
 instance_destroy()
 global.JogoPausado = true
+global.Morte = true
 layer_vspeed("Background", 0)
 
 
