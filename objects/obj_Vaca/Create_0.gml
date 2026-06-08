@@ -5,7 +5,7 @@
 direction = image_angle
 
 Lado = 1 //(esquerda)
-
+Morte = false
 
 TempoPontos = 10
 alarm[0] = TempoPontos

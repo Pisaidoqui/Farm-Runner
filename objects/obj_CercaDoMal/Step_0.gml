@@ -17,14 +17,6 @@ if (x = 128)	//Se estiver na esquerda
 //Soma a posição vertical com o y
 y += VelY
 
-if (global.Dificuldade = 2)
-{
-	VelY++
-}
-else if (global.Dificuldade = 3)
-{
-	VelY++
-}
 
 
 
