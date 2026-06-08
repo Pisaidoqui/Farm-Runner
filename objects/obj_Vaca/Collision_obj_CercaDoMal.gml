@@ -5,6 +5,7 @@ instance_destroy()
 global.JogoPausado = true
 global.Morte = true
 layer_vspeed("Background", 0)
+audio_play_sound(snd_Morte, 0, false)
 
 
 

@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Farm-Runner",
   "resources": [
+    {"id":{"name":"snd_TP","path":"sounds/snd_TP/snd_TP.yy",},"order":0,},
     {"id":{"name":"spr_Vaca","path":"sprites/spr_Vaca/spr_Vaca.yy",},"order":0,},
     {"id":{"name":"obj_CercaDoMal","path":"objects/obj_CercaDoMal/obj_CercaDoMal.yy",},"order":5,},
     {"id":{"name":"spr_CercaDoMal","path":"sprites/spr_CercaDoMal/spr_CercaDoMal.yy",},"order":4,},
@@ -15,6 +16,8 @@
     {"id":{"name":"obj_ColisaoMorte","path":"objects/obj_ColisaoMorte/obj_ColisaoMorte.yy",},"order":4,},
     {"id":{"name":"spr_Testes","path":"sprites/spr_Testes/spr_Testes.yy",},"order":3,},
     {"id":{"name":"spr_TP","path":"sprites/spr_TP/spr_TP.yy",},"order":5,},
+    {"id":{"name":"snd_Morte","path":"sounds/snd_Morte/snd_Morte.yy",},"order":1,},
+    {"id":{"name":"snd_Trigo","path":"sounds/snd_Trigo/snd_Trigo.yy",},"order":2,},
     {"id":{"name":"fnt_Pixel1","path":"fonts/fnt_Pixel1/fnt_Pixel1.yy",},"order":0,},
     {"id":{"name":"obj_Informacoes","path":"objects/obj_Informacoes/obj_Informacoes.yy",},"order":3,},
     {"id":{"name":"scr_Inicio","path":"scripts/scr_Inicio/scr_Inicio.yy",},"order":0,},
