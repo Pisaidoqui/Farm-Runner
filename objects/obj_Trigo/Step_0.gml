@@ -7,7 +7,7 @@ if (global.JogoPausado)
 	VelY = 0	//A velocidade para
 }
 
-if (x = 128)	//Se estiver na esquerda
+if (x = 148)	//Se estiver na esquerda
 {
 	image_angle = 180			//Vai viar a sprite
 	direction = image_angle
