@@ -1,0 +1,11 @@
+/// @description Apagar brilho
+// Você pode escrever seu código neste editor
+
+image_index = 1
+
+
+
+
+
+
+

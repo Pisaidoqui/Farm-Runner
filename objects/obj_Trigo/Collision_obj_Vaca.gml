@@ -3,6 +3,8 @@
 
 //A variavel que indica o tanto de trigos que você comeu aumenta 1
 global.Trigos++
+global.TrigosTotais++
+
 instance_destroy()
 audio_play_sound(snd_Trigo, 0, false)
 

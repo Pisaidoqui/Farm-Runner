@@ -10,4 +10,3 @@ draw_text(64, 32, "Trigos: " + string(global.Trigos))
 draw_text(64, 82, "Pontos: " + string(global.Pontos))
 
 
-

@@ -10,5 +10,8 @@ Morte = false
 TempoPontos = 10
 alarm[0] = TempoPontos
 
+Cooldown = false
 
+Cld2 = false
 
+Fogo = false

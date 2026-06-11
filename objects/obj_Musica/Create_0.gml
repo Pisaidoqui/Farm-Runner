@@ -1,7 +1,14 @@
 /// @description Musica legau
 // Você pode escrever seu código neste editor
+randomize()
 
-audio_play_sound(snd_MusicaTeste, 2, true)
+
+MusicaAtual = noone
+
+
+
+
+
 
 
 

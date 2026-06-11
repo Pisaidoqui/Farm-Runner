@@ -9,6 +9,7 @@ alarm[0] = TempoAlarme
 alarm[1] = TempoAlarme + (TempoAlarme / 2)
 alarm[2] = TempoAlarme + (TempoAlarme / 2)
 alarm[3] = TempoAlarme
+alarm[4] = TempoAlarme + (TempoAlarme / 4)
 
 
 

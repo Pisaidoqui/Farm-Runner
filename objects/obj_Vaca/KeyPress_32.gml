@@ -1,22 +1,42 @@
 /// @description Pressionar espaço
 // Você pode escrever seu código neste editor
 
-if (Lado = 1)
+if (!Cooldown)
 {
-	x = 128
-	image_yscale = -2
-	Lado = 2
-	audio_play_sound(snd_TP, 1, false)
-}
-else
-{
-	x = 592
-	image_yscale = 2
-	Lado = 1
+	if (Lado = 1)
+	{
+		Cooldown = true
+		if (Fogo)
+		{
+			if (!Cld2)
+			{
+			instance_create_layer(x, y,"Instances", obj_Foguinho)
+			Cld2 = true
+			alarm[4] = 36
+			}
+		}
+		x = 1000
+		alarm[1] = 12
+	}
+	else
+	{
+		Cooldown = true
+		if (Fogo)
+		{
+			if (!Cld2)
+			{
+			instance_create_layer(x, y,"Instances", obj_Foguinho)
+			Cld2 = true
+			alarm[4] = 36
+			}
+		}
+		x = 1000
+		alarm[2] = 12
+	}
+	instance_create_layer(360, 560, "Instances", obj_TP)
 	audio_play_sound(snd_TP, 1, false)
 }
 
-instance_create_layer(360, 560, "Instances", obj_TP)
 
 
 
